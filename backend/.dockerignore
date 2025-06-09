@@ -1,0 +1,8 @@
+// File: .dockerignore
+/frontend
+node_modules
+*.env
+*.log
+*.md
+Dockerfile
+docker-compose.yml
