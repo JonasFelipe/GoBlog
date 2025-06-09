@@ -9,7 +9,7 @@
 ## 🚀 Run the project
 
 ```bash
-git clone https://github.com/youruser/go-blog
+git clone https://github.com/JonasFelipe/GoBlog
 cd go-blog
 docker-compose up --build
 ```
